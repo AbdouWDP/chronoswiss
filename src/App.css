@@ -8,7 +8,7 @@ body {
   color: #191919;
 }
 .nav_btns_container,
-.brands_btns_container {
+.brands_container {
   scrollbar-width: none;
 }
 .fading_bg {
