@@ -3,7 +3,7 @@ import { watchesCategories } from "./watchCategories";
 function Categories() {
   return (
     <section className="w-screen py-10">
-      <div className="w-[90%] m-auto h-20">
+      <div className="w-[90%] m-auto">
         <div className="text-3xl font-semibold py-4">
           <h1>Découvrez Chrono24</h1>
         </div>
