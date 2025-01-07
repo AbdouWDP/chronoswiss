@@ -48,3 +48,18 @@ export const favouriteWatches = [
     id: 8,
   },
 ];
+
+export const favWatchText = [
+  { brand: "omega", name: "seamaster", id: 1 },
+  { brand: "Breitling", name: "Navitimer", id: 2 },
+  { brand: "Rolex", name: "Oyster Perpetual", id: 3 },
+  { brand: "Patek Philippe", name: "Grand Complications", id: 4 },
+  { brand: "Audemars Piguet", name: "Royal Oak Offshore", id: 5 },
+  { brand: "TAG Heuer", name: "Carrera", id: 6 },
+  { brand: "Panerai", name: "Luminor", id: 7 },
+  { brand: "Rolex", name: "GMT-Master", id: 8 },
+  { brand: "Tudor", name: "Black Bay", id: 9 },
+  { brand: "Rolex", name: "Yacht-Master", id: 10 },
+  { brand: "Patek Philippe", name: "Calatrava", id: 11 },
+  { brand: "Hublot", name: "Big Bang", id: 12 },
+];
