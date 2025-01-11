@@ -11,7 +11,7 @@ function Favourite() {
         </div>
         <div className="w-full flex gap-6 flex-wrap">
           {favouriteWatches.map((watch) => (
-            <WatchCard watch={watch} key={watch.id} />
+            <WatchCard watch={watch} id={watch.id} />
           ))}
         </div>
         <div className="flex gap-x-4 gap-y-2 flex-wrap py-8">

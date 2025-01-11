@@ -16,3 +16,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.scroll_images {
+  scrollbar-width: none;
+}
