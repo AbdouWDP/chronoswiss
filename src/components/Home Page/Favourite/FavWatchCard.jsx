@@ -4,7 +4,7 @@ function WatchCard({ watch, id }) {
   return (
     <div
       key={id}
-      className="w-[calc(25%-18px)] h-[70vh] bg-[#EFECEA] rounded-lg cursor-pointer group select-none"
+      className="w-[calc(25%-18px)] h-[70vh] shrink-0 bg-[#EFECEA] rounded-lg cursor-pointer group select-none"
     >
       <Link to={`/product/${watch.brand}/${id}`}>
         <div className="w-full h-[85%] group">
